@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3601906394
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a09f2f6abedd4a508d5c84ee048a9b1f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1fa936af6bc8f057222aa1176318baea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/BundledAssets/testbundle/BundledObject.prefab
+Dependencies: []
