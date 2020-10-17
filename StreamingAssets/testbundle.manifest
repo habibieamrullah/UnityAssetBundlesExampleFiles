@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3601906394
+CRC: 335749021
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: a09f2f6abedd4a508d5c84ee048a9b1f
+    Hash: 6896ad3685662dedfbc039fdcc56f850
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 1fa936af6bc8f057222aa1176318baea
+    Hash: 8591efdc717e1ea8e8bb521ba9f443d6
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,8 +25,11 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 65
   Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
 - Class: 136
   Script: {instanceID: 0}
 Assets:
+- Assets/BundledAssets/testbundle/ThreeCubes.prefab
 - Assets/BundledAssets/testbundle/BundledObject.prefab
 Dependencies: []
